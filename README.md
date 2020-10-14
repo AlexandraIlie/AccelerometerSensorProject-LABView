@@ -12,4 +12,22 @@ Data Dashboard permite crearea de vizualizari portabile personalizate ale aplica
 
 Ulterior, am imbunatatit proiectul prin introducerea unor filtre ce presupun netezirea datelor date de semnale si salvarea valorilor obtinute intr-un fixier de tip excel.
 
+# UDPReceiver.vi:
 [![dsada.jpg](https://i.postimg.cc/zvk8TFPm/dsada.jpg)](https://postimg.cc/XBXRbdbx)
+
+# AquireShowSensorData.vi FrontPanel:
+[![Aquire-Show-Sensor-Data-vi-front-Panel.jpg](https://i.postimg.cc/hPkRhwGJ/Aquire-Show-Sensor-Data-vi-front-Panel.jpg)](https://postimg.cc/4mQSSWVZ)
+
+# DataDashboard:
+[![Data-Dashboard.jpg](https://i.postimg.cc/nLQkrRCL/Data-Dashboard.jpg)](https://postimg.cc/Lq2f0Vkd)
+
+# FilteringSignals.vi:
+[![Filtering-Signals.jpg](https://i.postimg.cc/DZLXkRmq/Filtering-Signals.jpg)](https://postimg.cc/474dpL6d)
+
+# Testarea Aplicatiei
+1.	Pentru testarea acestei aplicatii, trebuie mai intai sa oprim Windows Firewall cu scopul de a activa conexiunile primite de la server (Control Panel\System and Security\Windows Defender Firewall\Customize Settings).
+2.	Urmatorul pas este reprezentat de determinarea IP-ului. Pentru aceasta, intram in cmd si tastam ipconfig. Adresa IP corecta este cea denumita Ipv4 Adress.
+3.	Se introduc adressa IP si portul in aplicatia UDP Sensor(se apasa ON), cat si in LabView:
+
+
+
