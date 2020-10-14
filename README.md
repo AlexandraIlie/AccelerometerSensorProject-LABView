@@ -10,3 +10,4 @@ Senzorul UDP citeste valorile accelerometrului, giroscopului, barometrului si ma
 *	aplicatia DataDashboard by National Instruments instalata tot pe deviceul Android ce are ca scop tot afisarea datelor, dar pe telefon.
 Data Dashboard permite crearea de vizualizari portabile personalizate ale aplicatiilor LabVIEW National Instruments. Folosind aceasta aplicatie, puteti crea tablouri pentru a afisa valorile variabilelor partajate publicate in retea si serviciile Web LabVIEW implementate pe indicatori, cum ar fi diagrame, casete de text si LED-uri.
 
+Ulterior, am imbunatatit proiectul prin introducerea unor filtre ce presupun netezirea datelor date de semnale si salvarea valorilor obtinute intr-un fixier de tip excel.
