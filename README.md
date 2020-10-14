@@ -3,7 +3,7 @@
 Obtinerea datelor de accelerometru de pe smartphone sau tableta folosind LabVIEW, UDPSensor si DataDashboard.
 Acest proiect implica conectarea unui device Android si a unui laptop la aceeasi adresa IP, cu scopul obtinerii unor date in timp real cu privire la senzorii de accelerometru ai device-ului inteligent.
   	Pentru ca acest lucru sa fie posibil, am folosit urmatoarele medii de lucru:
-•	un laptop conectat la internet, care are o versiune cat mai recenta de LabVIEW instalata;
+*	un laptop conectat la internet, care are o versiune cat mai recenta de LabVIEW instalata;
 Laboratorul de instrumente virtuale(LabVIEW): este o platforma de proiectare a sistemului si mediul de dezvoltare pentru un limbaj de programare vizuala de la National Instruments.
 Limbajul grafic este denumit ‘G’; nu trebuie confundat cu codul G. Lansat intial pentru Apple Macintosh in 1986, LabVIEW este utilizat in mod obisnuit pentru achizitia de date, controlul instrumentelor si automatizarea industriala pe o varietate de sisteme de operare, inclusiv Microsoft Windows, diverse versiuni de Unix, Linux si macOS.
 •	un device Android care sa aiba instalata aplicatia gratuita UDP Sensor app by Quadroid de pe Google Play. Aceasta aplicatie este necesara pentru a distribui datele de accelerometru pentru a putea fi citite in LabVIEW;
